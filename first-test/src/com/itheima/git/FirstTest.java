@@ -6,7 +6,8 @@ public class FirstTest {
         System.out.println("first test");
         System.out.println("first test");
         System.out.println("first test");
-
-
+    }
+    public void add(){
+        int i = 1;
     }
 }
